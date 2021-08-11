@@ -1,15 +1,40 @@
 ## Agenda
 
-- o problema da falta de versionamento
-- como solucionar
-- porque usar o git
-- quem pode usar o git
-- quem usa o git (ênfase para universidades e grupos de pesquisa)
-- recursos do git
-- Git, configuração, comandos, fluxo de trabalho, práticas e o ecossistema que envolve o GitHub
-- Github | gitlab | bitbucket
-- o que é o github
-- github para estudantes
-- como facilitar mais a minha vida
-- limitações do git
-- onde obter mais informações
+- Motivação
+  - O problema da versão perdida no email
+  - O que é versionamento
+  - Alternativas de mercado
+- O git
+  - Porque usar o git
+  - Quem usa o git (ênfase para universidades e grupos de pesquisa)
+  - Recursos do git
+- O Github
+  - O que é o Github
+  - Quem usa o Github
+  - Concorrentes
+- Trabalhando com Git e Github
+  - Preparando o ambiente
+    - Instalação
+    - Configuração inicial
+  - Criando um repositório
+    - Criando no github
+    - Clonando
+    - O README.md
+  - Fluxo de trabalho
+    - Verificando o status do repositório - git status
+    - Fluxo básico: Edição - git add - git commit - git push
+    - Sinconizando repositórios - git push - git pull - git fetch
+    - Baixando uma versão específica - git checkout [commit]
+  - Git é uma máquina do tempo
+    - Buscando informações no passado
+      - Github History
+      - Git Log
+    - Revertendo versões
+    - Trabalhando outras linhas temporais
+  - Extras do github
+    - Issues e projetos
+    - Kanban
+    - github para estudantes
+    - como facilitar mais a minha vida com ferramentas gui
+  - Limitações do Git
+  - Onde obter mais informações
