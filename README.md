@@ -43,7 +43,7 @@ Ao executar o projeto a primeira vez:
 Neste projeto, utilizei as seguintes tecnologias:
 
 - [RevealJS 4.1.2](https://github.com/hakimel/reveal.js)
-- [Live Server]()
+- [Live Server](https://github.com/ritwickdey/vscode-live-server)
 
 ## Autor
 
