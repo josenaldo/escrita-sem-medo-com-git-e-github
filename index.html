@@ -1,40 +1,96 @@
 <!doctype html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js</title>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<link rel="stylesheet" href="dist/reset.css">
-		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="dist/theme/black.css">
+	<title>reveal.js</title>
 
-		<!-- Theme used for syntax highlighted code -->
-		<link rel="stylesheet" href="plugin/highlight/monokai.css">
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
-			</div>
+	<link rel="stylesheet" href="dist/reset.css">
+	<link rel="stylesheet" href="dist/reveal.css">
+	<link rel="stylesheet" href="dist/theme/black.css">
+
+	<!-- Theme used for syntax highlighted code -->
+	<link rel="stylesheet" href="plugin/highlight/monokai.css">
+</head>
+
+<body>
+	<div class="reveal">
+		<div class="slides">
+			<section>
+				<h1>Git para Acadêmicos</h1>
+			</section>
+
+			<section data-markdown="slides/quem-sou.md" data-separator="^\r?\n\r?\n\r?\n" data-separator-vertical="^\r?\n\r?\n"
+				data-separator-notes="^Note:" data-charset="utf-8">
+			</section>
+
+			<section data-markdown="slides/agenda.md" data-separator="^\r?\n\r?\n\r?\n" data-separator-vertical="^\r?\n\r?\n"
+				data-separator-notes="^Note:" data-charset="utf-8">
+			</section>
+
+			<section data-markdown="slides/slide1.md" data-separator="^\r?\n\r?\n\r?\n" data-separator-vertical="^\r?\n\r?\n"
+				data-separator-notes="^Note:" data-charset="utf-8">
+			</section>
+
+			<section data-markdown="slides/slide2.md" data-separator="^\r?\n\r?\n\r?\n" data-separator-vertical="^\r?\n\r?\n"
+				data-separator-notes="^Note:" data-charset="utf-8">
+			</section>
+
+			<section data-markdown="slides/slide3.md" data-separator="^\r?\n\r?\n\r?\n" data-separator-vertical="^\r?\n\r?\n"
+				data-separator-notes="^Note:" data-charset="utf-8">
+			</section>
+
+			<section>
+				<h1>O que é Git</h1>
+
+				<p>Git é um sistema de controle de versão que auxilia hoje a maioria das empresas que utilizam de
+					desenvolvimento de software. Com ele é possivel entender todo o histórico de avanço dos projetos
+					nele inseridos, analisar como foram feitos e se necessário voltar a eles a qualquer momento.</p>
+
+			</section>
+
+			<section>
+				O Github é um serviço online, hoje distribuido pela Microsoft que hospeda repositórios Git, através dele
+				temos um local onde armazenar todos os nossos projetos e consequentemente, os commits (comando que salva
+				as alterações feitas) e ramos advindos deste projeto.
+			</section>
+
+			<section data-markdown="slides/informacoes-livros.md" data-separator="^\r?\n\r?\n\r?\n" data-separator-vertical="^\r?\n\r?\n"
+				data-separator-notes="^Note:" data-charset="utf-8">
+			</section>
+
+			<section>
+				<h2>Onde obter informações</h2>
+				<ul>
+					<li>
+						<a href="https://git-scm.com/book/en/v2">Livro Pro Git</a>
+					</li>
+					<li></li>
+					<li></li>
+					<li></li>
+				</ul>
+
+			</section>
 		</div>
+	</div>
 
-		<script src="dist/reveal.js"></script>
-		<script src="plugin/notes/notes.js"></script>
-		<script src="plugin/markdown/markdown.js"></script>
-		<script src="plugin/highlight/highlight.js"></script>
-		<script>
-			// More info about initialization & config:
-			// - https://revealjs.com/initialization/
-			// - https://revealjs.com/config/
-			Reveal.initialize({
-				hash: true,
+	<script src="dist/reveal.js"></script>
+	<script src="plugin/notes/notes.js"></script>
+	<script src="plugin/markdown/markdown.js"></script>
+	<script src="plugin/highlight/highlight.js"></script>
+	<script>
+		// More info about initialization & config:
+		// - https://revealjs.com/initialization/
+		// - https://revealjs.com/config/
+		Reveal.initialize({
+			hash: true,
 
-				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
-			});
-		</script>
-	</body>
+			// Learn about plugins: https://revealjs.com/plugins/
+			plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+		});
+	</script>
+</body>
+
 </html>

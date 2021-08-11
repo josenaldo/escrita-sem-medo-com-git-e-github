@@ -42,6 +42,9 @@ Ao executar o projeto a primeira vez:
 
 Neste projeto, utilizei as seguintes tecnologias:
 
+- [RevealJS 4.1.2](https://github.com/hakimel/reveal.js)
+- [Live Server]()
+
 ## Autor
 
 [![Profile Pic](https://avatars.githubusercontent.com/u/359860?s=100&v=4)](https://hithub.com/josenaldo)
