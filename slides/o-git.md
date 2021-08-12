@@ -1,38 +1,64 @@
-## Git
+## O que é o Git?
 
-- Sistema de versionamento distribuído
+___
+
+![Sistema distribuido](images/network.svg) <!-- .element: class="r-stretch" -->
+
+ Sistema de controle de versão **distribuído**
+
+---
+
+## Quem criou o Git? Quando?
+
+___
+
+Linus Torvalds (sim, o "pai" do Linux), em 2005
+
+![Sistema distribuido](images/torvalds.svg) <!-- .element: class="r-stretch" -->
+
+---
+
+## Por que usar o Git?
+
+___
+
+- Sistema mais usado no mundo para controle de versão
 - Ótimo para desenvolvimento não linear
-- Não existe nenhum editor em particular
-- Muito rápido
+- Muito (MUITO) rápido
 - Gratuito e Open source
-- Muito eficiente em projetos com muitos participantes e ccom bastante código
-- O gite Permite fazer tudo sem servidor
 
---
+---
 
-## Cada máquina tem o repositório
+## Se você trabalha sozinho, o Git é muito útil.
 
-O que é um repositório?
+___
 
-É uma pasta com todos os arquivos do seu projeto, e com o banco de dados d
-e versões do seu projeto
+## Se trabalha em equipe, ele é imprescindível!
 
-O primeiro é o repositório, local físico onde os arquivos e suas cópias ficarão armazenados. O repositório pode ser local ou remoto, podendo salvar não apenas arquivos de texto, mas também imagens, áudios e outros elementos relacionados ao projeto.
+---
 
-^Note:
+## Como funciona o Git?
 
-Git permite que você crie, colabore e gerencie projetos (código, texto, etc) enquanto grava todo o histórico doe cada arquivo do projeto. Se você trabalha sozinho, o Git ainda é uma ferramenta útil. Se trabalha em equipe, ele é imprescindível!
+![Sistema distribuido](images/git-diagrama.svg) <!-- .element: class="r-stretch" -->
 
-Git é um sistema de controle de versão que auxilia hoje a maioria das empresas que utilizam de
-desenvolvimento de software. Com ele é possivel entender todo o histórico de avanço dos projetos
-nele inseridos, analisar como foram feitos e se necessário voltar a eles a qualquer momento.
+Note:
 
---
+É uma pasta com todos os arquivos do seu projeto, e com o banco de dados de
+e versões do seu projeto. O repositório pode ser local ou remoto, podendo salvar não apenas arquivos de texto, mas também imagens, áudios e outros elementos relacionados ao projeto.
 
-## Extras do git
+Git permite que você crie, colabore e gerencie projetos (código, texto, etc) enquanto grava todo o histórico doe cada arquivo do projeto.
+
+---
+
+## O que mais dá pra fazer com Git?
 
 - Reescrever o último commit
 - Remover o último commit
 - Descartar alterações antes do commit
 - Comparar commits
 - Usar vários repositórios remotos simultaneamente
+
+---
+
+## Quem usa o Git?
+

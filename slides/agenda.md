@@ -2,16 +2,21 @@
 
 - [x] Quem sou eu
   - [x] Porque isso é importante
-- [ ] O problema
-- [ ] Motivação
-  - [ ] O problema da versão perdida no email
-  - [ ] O que é versionamento
-  - [ ] Alternativas de mercado
-  - [ ] Cenários
-- [ ] O git
-  - [ ] Porque usar o git
-  - [ ] Quem usa o git (ênfase para universidades e grupos de pesquisa)
-  - [ ] Recursos do git
+- [x] O problema
+- [x] Solução
+  - [x] Trabalhar sem controle de versão é como trabalhar sem EPI
+  - [x] Todos mantemos uma linha do tempo
+  - [x] Mas o que é Controle de Versão?
+  - [x] Por que usar Controle de Versão?
+  - [x] Alternativas de mercado
+  - [x] Onde vocês podem usar o versionamento?
+- [x] O git
+  - [x] O que é o Git?
+  - [x] Quem criou o Git? Quando?
+  - [x] Por que usar o Git?
+  - [x] Como funciona o Git?
+  - [x] O que mais dá pra fazer com Git?
+  - [x] Quem usa o Git? (ênfase para universidades e grupos de pesquisa)
 - [ ] O Github
   - [ ] O que é o Github
   - [ ] Quem usa o Github

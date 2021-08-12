@@ -1,4 +1,4 @@
-## Trabalhar sem controle de versão é como trabalhar sem EPI.
+## Trabalhar sem controle de versão é como trabalhar sem EPI
 
 <i class="fas fa-3x fa-car-crash"></i>
 
