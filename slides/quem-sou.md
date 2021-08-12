@@ -18,6 +18,8 @@ Programador (desde 1999!) aposentado
 
 --
 
+<i class="fas fa-exclamation-triangle fa-2x"></i>
+
 # Por que isso é importante?
 
 Note:
