@@ -17,6 +17,8 @@ O que é um repositório?
 É uma pasta com todos os arquivos do seu projeto, e com o banco de dados d
 e versões do seu projeto
 
+O primeiro é o repositório, local físico onde os arquivos e suas cópias ficarão armazenados. O repositório pode ser local ou remoto, podendo salvar não apenas arquivos de texto, mas também imagens, áudios e outros elementos relacionados ao projeto.
+
 ^Note:
 
 Git permite que você crie, colabore e gerencie projetos (código, texto, etc) enquanto grava todo o histórico doe cada arquivo do projeto. Se você trabalha sozinho, o Git ainda é uma ferramenta útil. Se trabalha em equipe, ele é imprescindível!

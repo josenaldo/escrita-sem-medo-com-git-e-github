@@ -1,7 +1,7 @@
 ## Agenda
 
-- [ ] Quem sou eu
-  - [ ] Porque isso é importante
+- [x] Quem sou eu
+  - [x] Porque isso é importante
 - [ ] Motivação
   - [ ] O problema da versão perdida no email
   - [ ] O que é versionamento

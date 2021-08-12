@@ -1,5 +1,7 @@
 ## Github
 
+O Github é um repositório remoto, criado como um serviço online de hospedagem de repositórios do Git.
+
 É o serviço que permite alojar repositórios git, na nuvem
 
 Tem funcionalidades de rede social
