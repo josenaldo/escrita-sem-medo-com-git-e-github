@@ -1,48 +1,82 @@
-# Cenários de guerra
+## Cenários de guerra
 
-- O Trabalho em Grupo
-- A Dissertação
-- O Artigo
+___
 
---
-
-## O Trabalho em Grupo
-
-- O professor passou uma pequena atividade.
-- 4 pessoas por grupo
-- Cada um escreve uma parte
-- Todos enviam as partes por email, para alguém, que reúne tudo
-- Ao final, o integrador reúne e ALTERA todos os trabalhos recebidos
-- O professor não sabe quem fez o que.
-- Um dos participantes manda várias versões, e o integrador coloca a versão errada.
-
---
-
-## A Dissertação
-
-- O mestrando enrola pra começar a escrever
-- Quando começa a escrever, a cada capítulo (ou um pedaço, a depender do combinado), o mestrando envia uma versão para o orientador, seja por email, seja por um google drive
-- O orientador comenta as alterações e retorna o documento, pelo mesmo meio
-- O orientando salva uma nova versão do arquivo, com novo nome
-- O histórico é dado por cada versão do arquivo salva
-- Problemas:
-  - Arquivos podem ser perdidos
-  - Backup não é garantido (a não ser que esteja no Google Drive)
-  - Rastreamento de versões é precário
-  - Muito trabalho pode ser perdido nessa confusão de arquivos
-  - O Orientador não consegue avaliar
-
--- 
-
-## O Artigo
-
-- Você está trabalhando sozinho. Pra que se preocupar com versões?
-- Manter o historico do trabalho
-- De quebra, ganhar um backup rápido (podendo salvar em mais de um local)
+<div class="container">
+  <div class="col">
+    <i class="fas fa-2x fa-user"></i>
+    <p>O Artigo</p>
+  </div>
+  <div class="col">
+    <i class="fas fa-2x fa-user-friends"></i>
+    <p>A Dissertação ou Tese</p>
+  </div>
+  <div class="col">
+    <i class="fas fa-2x fa-users"></i>
+    <p>O Trabalho em Grupo</p>
+  </div>
+</div>
 
 --
 
-Todos mantemos uma linha do tempo. Cada arquivo salvo é como uma foto, daquele momento.
-O problema é que é difícil navegar nessa linha do tempo e saber o que foi feito.
-Um trabalho apagado pode conter conteúdo importante que é perdido irremediavelmente.
-Além disso, o trabalho em equipe, nesse sistema, é muito propenso a erros.
+## Problema: Perda
+
+___
+
+<div class="container">
+  <div class="col">Tempo</div>
+  <div class="col">Informação</div>
+  <div class="col">Confiança</div>
+</div>
+
+Note:
+
+Os problemas do trabalho sem versionamento
+
+- Problema com perda de informação
+  - Escrever ou salvar por cima de versões anteriores e perder a informação
+  - Recomeçar o trabalho em cima de uma versão antiga e sobreescrever uma mais nova
+  - Apagar arquivos que não deveria
+- Problema com perda de informação
+  - Escrever ou salvar por cima de versões anteriores e perder a informação
+  - Recomeçar o trabalho em cima de uma versão antiga e sobreescrever uma mais nova
+  - Apagar arquivos que não deveria
+
+--
+
+## Problema: Medo
+
+___
+
+<div class="container">
+  <div class="col">Experimentar</div>
+  <div class="col">Errar</div>
+  <div class="col">Trabalho em equipe</div>
+</div>
+
+Note:
+
+- Medo de errar
+- Dificuldade de trabalhar em equipe
+  - Problemas ao sincronizar o trabalho concorrente
+  - Problemas de sobreescrita de alterações
+- Medo de experimentar
+
+--
+
+## Problema: Redundância
+
+___
+
+<div class="container">
+  <div class="col">Retrabalho</div>
+  <div class="col">Trafegando desnecessário de informação</div>
+  <div class="col">Arquivos em excesso</div>
+</div>
+
+Note:
+
+- Redundância
+  - Começa a duplicar arquivos antes de editar
+  - Histórico através dos nomes de arquivos
+- Retrabalho

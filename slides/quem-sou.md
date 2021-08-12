@@ -1,5 +1,7 @@
 ## Quem é este que vos fala
 
+___
+
 ### Josenaldo de Oliveira Matos Filho
 
 [![Profile Pic](https://avatars.githubusercontent.com/u/359860?s=150&v=4)](https://hithub.com/josenaldo)
@@ -21,6 +23,8 @@ Programador (desde 1999!) aposentado
 <i class="fas fa-exclamation-triangle fa-2x"></i>
 
 # Por que isso é importante?
+
+___
 
 Note:
 Explicar que minha experiencia com desenvolvimento de software me dá

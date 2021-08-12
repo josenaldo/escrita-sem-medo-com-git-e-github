@@ -1,21 +1,9 @@
-## Os problemas do trabalho sem versionamento
 
-- Problema com perda de informação
-  - Escrever ou salvar por cima de versões anteriores e perder a informação
-  - Recomeçar o trabalho em cima de uma versão antiga e sobreescrever uma mais nova
-  - Apagar arquivos que não deveria
-- Redundância
-  - Começa a duplicar arquivos antes de editar
-  - Histórico através dos nomes de arquivos
-- Medo de errar
-- Dificuldade de trabalhar em equipe
-  - Problemas ao sincronizar o trabalho concorrente
-  - Problemas de sobreescrita de alterações
-- Retrabalho
-- Medo de experimentar
-- Trabalho de Equipe:
-- Dados mais seguros
-Gestão de mudanças
+
+Todos mantemos uma linha do tempo. Cada arquivo salvo é como uma foto, daquele momento.
+O problema é que é difícil navegar nessa linha do tempo e saber o que foi feito.
+Um trabalho apagado pode conter conteúdo importante que é perdido irremediavelmente.
+Além disso, o trabalho em equipe, nesse sistema, é muito propenso a erros.
 --
 
 ### O que é versionamento?
