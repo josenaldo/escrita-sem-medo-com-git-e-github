@@ -14,12 +14,7 @@ git init
 Fluxo de trabalho do Git
 
 Fluxo normal
-    Criar repositório no github
-    Clonar repositório
-    Adicionar/editar conteúdo
-    git add
-    git commit
-    git push
+
 Trabalhando com ramos
     git checkout -b funcionalidade
     git checkout main

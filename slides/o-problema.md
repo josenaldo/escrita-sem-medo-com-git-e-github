@@ -39,3 +39,10 @@
 - Você está trabalhando sozinho. Pra que se preocupar com versões?
 - Manter o historico do trabalho
 - De quebra, ganhar um backup rápido (podendo salvar em mais de um local)
+
+--
+
+Todos mantemos uma linha do tempo. Cada arquivo salvo é como uma foto, daquele momento.
+O problema é que é difícil navegar nessa linha do tempo e saber o que foi feito.
+Um trabalho apagado pode conter conteúdo importante que é perdido irremediavelmente.
+Além disso, o trabalho em equipe, nesse sistema, é muito propenso a erros.
