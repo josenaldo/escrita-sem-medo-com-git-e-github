@@ -2,11 +2,11 @@
 
 - [x] Quem sou eu
   - [x] Porque isso é importante
+- [ ] O problema
 - [ ] Motivação
   - [ ] O problema da versão perdida no email
   - [ ] O que é versionamento
   - [ ] Alternativas de mercado
-- [ ] O problema
   - [ ] Cenários
 - [ ] O git
   - [ ] Porque usar o git

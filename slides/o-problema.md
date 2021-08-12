@@ -17,7 +17,7 @@ ___
   </div>
 </div>
 
---
+---
 
 ## Problema: Perda
 
@@ -42,7 +42,7 @@ Os problemas do trabalho sem versionamento
   - Recomeçar o trabalho em cima de uma versão antiga e sobreescrever uma mais nova
   - Apagar arquivos que não deveria
 
---
+---
 
 ## Problema: Medo
 
@@ -62,7 +62,7 @@ Note:
   - Problemas de sobreescrita de alterações
 - Medo de experimentar
 
---
+---
 
 ## Problema: Redundância
 

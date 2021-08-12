@@ -18,7 +18,7 @@ Programador (desde 1999!) aposentado
     <i class="devicon-javascript-plain fa-2x"></i>
 </div>
 
---
+---
 
 <i class="fas fa-exclamation-triangle fa-2x"></i>
 
