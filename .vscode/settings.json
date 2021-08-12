@@ -18,6 +18,25 @@
     "peacock.color": "#61dafb",
 
     "markdownlint.config": {
+        "MD026": false,
+        "MD033": false,
         "MD041": false,
-    }
+    },
+
+    "markdown-preview-enhanced.enableHTML5Embed": true,
+
+    "editor.tabCompletion": "on",
+    "emmet.excludeLanguages": [],
+    "emmet.includeLanguages": {
+       "markdown": "html"
+    },
+
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": true
+    },
+    "emmet.showSuggestionsAsSnippets": true
+},
+   
+   
 }

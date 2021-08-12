@@ -1,18 +1,24 @@
-O documento com problema de múltiplas personalidades
+## Os problemas do trabalho sem versionamento
 
-Problemas de não se usar versionamento
-
-- Dissertação v2.doc
-
-- Dissertação v2 final.doc
-- Dissertação v3.doc
-- Dissertação Final.doc
-- Dissertação FinalCorrigida.doc
-- DissertaçãoFinalCorrigidaAgoravai.doc
+- Medo de errar
+- Dificuldade de sincronizar o trabalho concorrente
+- Problema com perda de informação
+- Retrabalho
+- Medo de experimentar
 
 --
 
 ### O que é versionamento?
+
+- Guardar toda a história do projeto
+  - Autores (quem?)
+  - Datas (quanto)
+  - Qual o motivo das alterações? (Por que?)
+- Facilita o trabalho em equipe, pois ajuda a controlar quem altera o que
+  - O trabalho em equipe é mais flexível e eficiente
+- Permite experimentar
+- Permite lidar com erros com mais segurança
+  - Auxilia na identificação e resolução de problemas
 
 --
 
@@ -34,4 +40,3 @@ Problemas de não se usar versionamento
 - Produção de apresentações
 - Trabalhos em grupo, em geral
 - Currículo
-  

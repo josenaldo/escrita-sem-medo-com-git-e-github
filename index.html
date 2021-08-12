@@ -5,32 +5,35 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-	<title>reveal.js</title>
+	<title>Escrita sem medo com Git e Github!</title>
 
 	<link rel="stylesheet" href="dist/reset.css">
 	<link rel="stylesheet" href="dist/reveal.css">
 	<link rel="stylesheet" href="dist/theme/white.css">
+	<link href="css/all.css" rel="stylesheet">
 
 	<!-- Theme used for syntax highlighted code -->
 	<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 </head>
 
 <body>
 	<div class="reveal">
 		<div class="slides">
-			<section>
-				<h1>Git para Acadêmicos</h1>
+
+			<section data-markdown="slides/capa.md" data-separator="^---" data-separator-vertical="^--"
+				data-separator-notes="^Note:" data-charset="utf-8">
 			</section>
 
 			<section data-markdown="slides/quem-sou.md" data-separator="^---" data-separator-vertical="^--"
 				data-separator-notes="^Note:" data-charset="utf-8">
 			</section>
 
-			<section data-markdown="slides/motivacao.md" data-separator="^---" data-separator-vertical="^--"
+			<section data-markdown="slides/o-problema.md" data-separator="^---" data-separator-vertical="^--"
 				data-separator-notes="^Note:" data-charset="utf-8">
 			</section>
 
-			<section data-markdown="slides/o-problema.md" data-separator="^---" data-separator-vertical="^--"
+			<section data-markdown="slides/motivacao.md" data-separator="^---" data-separator-vertical="^--"
 				data-separator-notes="^Note:" data-charset="utf-8">
 			</section>
 
@@ -46,8 +49,8 @@
 				data-separator-notes="^Note:" data-charset="utf-8">
 			</section>
 
-			<section data-markdown="slides/criando-um-repositorio.md" data-separator="^---" data-separator-vertical="^--"
-				data-separator-notes="^Note:" data-charset="utf-8">
+			<section data-markdown="slides/criando-um-repositorio.md" data-separator="^---"
+				data-separator-vertical="^--" data-separator-notes="^Note:" data-charset="utf-8">
 			</section>
 
 			<section data-markdown="slides/o-fluxo-de-trabalho.md" data-separator="^---" data-separator-vertical="^--"
@@ -66,7 +69,11 @@
 				data-separator-notes="^Note:" data-charset="utf-8">
 			</section>
 
-			<section data-markdown="slides/obtendo-mais-informacoes.md" data-separator="^---" data-separator-vertical="^--"
+			<section data-markdown="slides/obtendo-mais-informacoes.md" data-separator="^---"
+				data-separator-vertical="^--" data-separator-notes="^Note:" data-charset="utf-8">
+			</section>
+
+			<section data-markdown="slides/fim.md" data-separator="^---" data-separator-vertical="^--"
 				data-separator-notes="^Note:" data-charset="utf-8">
 			</section>
 
@@ -83,6 +90,7 @@
 		// - https://revealjs.com/config/
 		Reveal.initialize({
 			hash: true,
+			slideNumber: 'c',
 
 			// Learn about plugins: https://revealjs.com/plugins/
 			plugins: [RevealMarkdown, RevealHighlight, RevealNotes]

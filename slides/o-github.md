@@ -1,9 +1,32 @@
-GitHub is one part social network and one part file hosting service, where you can store your files for all to see. I know that sounds like a bad thing, but it makes open source projects like WordPress possible. GitHub is the largest storage hub for collaborative works in the world, so not only can other people build on your projects, you can build on theirs. Teamwork at its finest. GitHub also functions as a central location that team members can connect to in order to access shared code.
+## Github
 
-reposi´torios privados são de graça também
+É o serviço que permite alojar repositórios git, na nuvem
 
-Git is the program we’re using to manage the different versions of a file while GitHub is a social network storage location. Capiche?
+Tem funcionalidades de rede social
 
-Since GitHub will house your files in the cloud, this is known as the remote location for your files.
+É o maior serviço de repositórios do mundo
 
-O Github é um serviço online, hoje distribuido pela Microsoft que hospeda repositórios Git, através dele temos um local onde armazenar todos os nossos projetos e consequentemente, os commits (comando que salva as alterações feitas) e ramos advindos deste projeto.
+Atualmente, pertence à microsoft
+
+Backup de 5000 anos
+
+--
+
+Permite que um time possa colaborar, servindo como repositório central
+
+tem diversas funcionalidades de Gestão de Projetos
+
+Tem ferramenta de documentação de projetos
+
+Grandes projetos opensource estão hospedados no github, tais como o Linux, wordpress, .Net Core
+
+Vem sendo adotados por pesquisadores
+
+--
+
+Repositórios podem ser públicos ou privados
+
+## Invoca PIroto
+
+[Invoca Piroto Farofa](https://invoca-piroto-backend.herokuapp.com/)
+[Lampião e Julieta](https://github.com/josenaldo/farofa-lampiao-e-julieta)

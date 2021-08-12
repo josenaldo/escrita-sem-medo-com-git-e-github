@@ -1,44 +1,44 @@
 ## Agenda
 
-- [x] Quem sou eu
-  - [x] Porque isso é importante
-- [x] Motivação
-  - [x] O problema da versão perdida no email
-  - [x] O que é versionamento
-  - [x] Alternativas de mercado
-- [x] O problema
-  - [x] Cenários
-- [x] O git
+- [ ] Quem sou eu
+  - [ ] Porque isso é importante
+- [ ] Motivação
+  - [ ] O problema da versão perdida no email
+  - [ ] O que é versionamento
+  - [ ] Alternativas de mercado
+- [ ] O problema
+  - [ ] Cenários
+- [ ] O git
   - [ ] Porque usar o git
   - [ ] Quem usa o git (ênfase para universidades e grupos de pesquisa)
   - [ ] Recursos do git
-- [x] O Github
-  - [x] O que é o Github
+- [ ] O Github
+  - [ ] O que é o Github
   - [ ] Quem usa o Github
   - [ ] Concorrentes
 - [ ] Trabalhando com Git e Github
-  - [x] Preparando o ambiente
-    - [x] Instalação
-    - [x] Configuração inicial
-  - [x] Criando um repositório
-    - [x] Criando no github
-    - [x] Clonando
-    - [x] O README.md
-  - [x] Fluxo de trabalho
-    - [x] Verificando o status do repositório | git status
-    - [x] Fluxo básico: Edição | git add | git commit | git push
-    - [x] Sinconizando repositórios | git push | git pull | git fetch
+  - [ ] Preparando o ambiente
+    - [ ] Instalação
+    - [ ] Configuração inicial
+  - [ ] Criando um repositório
+    - [ ] Criando no github
+    - [ ] Clonando
+    - [ ] O README.md
+  - [ ] Fluxo de trabalho
+    - [ ] Verificando o status do repositório | git status
+    - [ ] Fluxo básico: Edição | git add | git commit | git push
+    - [ ] Sinconizando repositórios | git push | git pull | git fetch
   - [ ] Git é uma máquina do tempo
-    - [x] Baixando uma versão específica | git checkout [commit]
-    - [x] Buscando informações no passado
-      - [x] Github History
-      - [x] Git Log
-    - [x] Revertendo versões
-    - [x] Trabalhando outras linhas temporais
-  - [x] Extras do github
-    - [x] Issues e projetos
-    - [x] Kanban
-    - [x] Wiki
+    - [ ] Baixando uma versão específica | git checkout [commit]
+    - [ ] Buscando informações no passado
+      - [ ] Github History
+      - [ ] Git Log
+    - [ ] Revertendo versões
+    - [ ] Trabalhando outras linhas temporais
+  - [ ] Extras do github
+    - [ ] Issues e projetos
+    - [ ] Kanban
+    - [ ] Wiki
   com ferramentas gui
   - [ ] Limitações do Git
   - [ ] Onde obter mais informações
