@@ -1,6 +1,6 @@
 # Como começar?
 
-<i class="fas fa-4x fa-play"></i>
+<i class="fas fa-4x fa-play color-1"></i>
 
 ---
 

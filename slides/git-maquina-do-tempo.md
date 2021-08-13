@@ -2,7 +2,7 @@
 
 ___
 
-<i class="fas fa-4x fa-history"></i>
+<i class="fas fa-4x fa-history color-1"></i>
 
 ---
 
@@ -24,7 +24,7 @@ Recuperando um trabalho perdido
 
 ___
 
-<i class="fas fa-4x fa-code-branch"></i>
+<i class="fas fa-4x fa-code-branch color-1"></i>
 
 ---
 

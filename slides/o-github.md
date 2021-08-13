@@ -2,9 +2,9 @@
 
 ___
 
-# Github
+# Github <!-- .element: class="color-1" -->
 
-<div class="i fab fa-4x fa-github"></div>
+<div class="i fab fa-4x fa-github color-1"></div>
 
 ---
 
@@ -24,11 +24,11 @@ ___
 
 É o maior serviço de repositórios do mundo
 
-65+ milhões de desenvolvedores
+**65+ milhões** de desenvolvedores
 
-3+ milhões de organizações
+**3+ milhões** de organizações
 
-200+ milhões de repositórios
+**200+ milhões** de repositórios
 
 ---
 
@@ -41,7 +41,7 @@ Permite que um time possa colaborar, servindo como repositório central
 ![Github](images/github-diagrama.svg) <!-- .element: class="r-stretch" -->
 
 ---
-
+<!-- .slide: data-background="#b04131" -->
 ## Muito além do git
 
 ___
@@ -60,7 +60,7 @@ Github Pages
 
 ---
 
-## Concorrentes
+# Concorrentes
 
 ___
 

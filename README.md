@@ -14,7 +14,15 @@ Apresentação em desenvolvimento
 
 - [ ]
 
-## Demonstração
+## Paleta de Cores
+
+    #f03c2e
+    #d04030
+    #b04131
+    #914032
+    #723d33
+    #543933
+    #333333
 
 ## Colaborando
 

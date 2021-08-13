@@ -35,7 +35,7 @@ ___
 
 O git cria uma pasta oculta ".git" dentro da pasta do projeto
 
-## NÃO TOQUE NELA!
+## NÃO TOQUE NELA! <!-- .element: class="color-1" -->
 
 ![Pasta do Git](images/git-init-resultado.png)
 
@@ -50,7 +50,7 @@ Eu prefiro iniciar meus repositórios no Github e depois **CLONAR** o projeto.
 Clonar é fazer uma cópia de um repositório.
 
 ---
-
+<!-- .slide:  data-background-color="#b04131" -->
 # Demonstração
 
 Como criar e clonar um repositório no Github

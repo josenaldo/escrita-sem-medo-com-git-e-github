@@ -60,7 +60,7 @@ Git permite que você crie, colabore e gerencie projetos (código, texto, etc) e
 
 ---
 
-## Quem usa o Git?
+# Quem usa o Git? <!-- .element: class="color-1" -->
 
 <div>
     <div class="i fab fa-2x fa-google"></div>
@@ -72,7 +72,6 @@ Git permite que você crie, colabore e gerencie projetos (código, texto, etc) e
 </div>
 
 ---
+<!-- .slide:  data-background-image="images/sourcetree.png" -->
 
-## É preciso usar a linha de comando?
-
-Não!
+# Não é preciso usar a linha de comando!<!-- .element: class="color-white" -->

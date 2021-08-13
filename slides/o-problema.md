@@ -3,15 +3,15 @@
 ___
 
 <div class="container">
-  <div class="col">
+  <div class="col color-1">
     <i class="fas fa-2x fa-user"></i>
     <p>O Artigo</p>
   </div>
-  <div class="col">
+  <div class="col color-3">
     <i class="fas fa-2x fa-user-friends"></i>
     <p>A Dissertação ou Tese</p>
   </div>
-  <div class="col">
+  <div class="col color-5">
     <i class="fas fa-2x fa-users"></i>
     <p>O Trabalho em Grupo</p>
   </div>
@@ -19,64 +19,18 @@ ___
 
 ---
 
-## Problema: Perda
+## Problema de se trabalhar sem controle de versão?
 
 ___
 
-<div class="container">
-  <div class="col">Tempo</div>
-  <div class="col">Informação</div>
-  <div class="col">Confiança</div>
-</div>
-
-Note:
-
-Os problemas do trabalho sem versionamento
-
-- Problema com perda de informação
-  - Escrever ou salvar por cima de versões anteriores e perder a informação
-  - Recomeçar o trabalho em cima de uma versão antiga e sobreescrever uma mais nova
-  - Apagar arquivos que não deveria
-- Problema com perda de informação
-  - Escrever ou salvar por cima de versões anteriores e perder a informação
-  - Recomeçar o trabalho em cima de uma versão antiga e sobreescrever uma mais nova
-  - Apagar arquivos que não deveria
+![Problemas](images/problemas.svg)
 
 ---
 
-## Problema: Medo
+## Trabalhar sem controle de versão é como trabalhar sem EPI!
 
 ___
 
-<div class="container">
-  <div class="col">Experimentar</div>
-  <div class="col">Errar</div>
-  <div class="col">Trabalho em equipe</div>
-</div>
+<i class="fas fa-4x fa-car-crash color-5"></i>
 
-Note:
-
-- Medo de errar
-- Dificuldade de trabalhar em equipe
-  - Problemas ao sincronizar o trabalho concorrente
-  - Problemas de sobreescrita de alterações
-- Medo de experimentar
-
----
-
-## Problema: Redundância
-
-___
-
-<div class="container">
-  <div class="col">Retrabalho</div>
-  <div class="col">Trafegando desnecessário de informação</div>
-  <div class="col">Arquivos em excesso</div>
-</div>
-
-Note:
-
-- Redundância
-  - Começa a duplicar arquivos antes de editar
-  - Histórico através dos nomes de arquivos
-- Retrabalho
+### Uma hora, um acidente acontece!

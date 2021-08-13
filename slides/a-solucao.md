@@ -1,21 +1,13 @@
-## Trabalhar sem controle de versão é como trabalhar sem EPI
-
-<i class="fas fa-3x fa-car-crash"></i>
-
-### Uma hora, um acidente acontece!
-
----
-
 ## Todos mantemos uma linha do tempo
 
 ___
 
 <div>
-<i class="fas fa-file-word"></i>
-<i class="fas fa-file-word"></i>
-<i class="fas fa-file-excel"></i>
-<i class="fas fa-file-excel"></i>
-<i class="fas fa-file-powerpoint"></i>
+<i class="fas color-2 fa-2x fa-file-word"></i> &nbsp;
+<i class="fas color-2 fa-2x fa-file-word"></i> &nbsp;
+<i class="fas color-2 fa-2x fa-file-excel"></i> &nbsp;
+<i class="fas color-2 fa-2x fa-file-excel"></i> &nbsp;
+<i class="fas color-2 fa-2x fa-file-powerpoint"></i> &nbsp;
 </div>
 
 ### Mas um monte de arquivos com nomes diferentes NÃO formam uma boa linha do tempo.
@@ -39,9 +31,10 @@ Além disso, o trabalho em equipe, nesse sistema, é muito propenso a erros.
 ___
 
 - É a manutenção da linha do tempo do projeto
-  - Autores (quem?)
-  - Datas (quanto)
-  - Qual o motivo das alterações? (Por que?)
+  - O que foi alterado? **(O que)**
+  - Autores **(Quem)**
+  - Datas **(Quando)**
+  - Qual o motivo das alterações? **(Por que)**
 
 ---
 
@@ -49,12 +42,15 @@ ___
 
 ___
 
-- Facilitar o trabalho em equipe
+- Segurança
+  - Backup do projeto
+  - Nenhuma perda de informação
+- Colaboração
   - Ajuda a controlar quem altera o que
   - O trabalho em equipe é mais flexível e eficiente
-- Permite experimentar
-- Permite lidar com erros com mais segurança
-  - Auxilia na identificação e resolução de problemas
+- Mais Confiança
+  - Para experimentar
+  - Para lidar com erros
 
 ---
 
@@ -62,9 +58,10 @@ ___
 
 ___
 
-- SVN e CVS
 - Google Drive History
 - Histórico do Office
+- SVN e CVS
+- Mercurial
 - Git
 
 ---

@@ -9,18 +9,18 @@ ___
 Programador (desde 1999!) aposentado
 
 <div>
-    <i class="devicon-java-plain fa-2x"></i>
-    <i class="devicon-python-plain fa-2x"></i>
-    <i class="devicon-php-plain fa-2x"></i>
-    <i class="devicon-ruby-plain fa-2x"></i>
-    <i class="devicon-html5-plain fa-2x"></i>
-    <i class="devicon-css3-plain fa-2x"></i>
-    <i class="devicon-javascript-plain fa-2x"></i>
+    <i class="color-1 devicon-java-plain fa-2x"></i>
+    <i class="color-2 devicon-python-plain fa-2x"></i>
+    <i class="color-3 devicon-php-plain fa-2x"></i>
+    <i class="color-4 devicon-ruby-plain fa-2x"></i>
+    <i class="color-5 devicon-html5-plain fa-2x"></i>
+    <i class="color-6 devicon-css3-plain fa-2x"></i>
+    <i class="color-7 devicon-javascript-plain fa-2x"></i>
 </div>
 
 ---
 
-<i class="fas fa-exclamation-triangle fa-2x"></i>
+<i class="fas fa-exclamation-triangle fa-4x color-1"></i>
 
 # Por que isso é importante?
 

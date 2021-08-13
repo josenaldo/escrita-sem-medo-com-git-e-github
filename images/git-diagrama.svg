@@ -51,271 +51,255 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="setas"
-     transform="translate(-21.726784,17.477652)">
-    <g
-       id="g1129"
-       transform="translate(26.840366)">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect3870"
-         width="148.25851"
-         height="67.826042"
-         x="0.14427546"
-         y="-1.3747134" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="58.621769"
-         y="-5.0180697"
-         id="text5474-3"><tspan
-           sodipodi:role="line"
-           id="tspan5472-4"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583px"
-           x="58.621769"
-           y="-5.0180697">LOCAL</tspan></text>
-      <rect
-         style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect6041-8"
-         width="35.963169"
-         height="40.399925"
-         x="103.66536"
-         y="20.973614" />
-      <rect
-         style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect6041-8-9"
-         width="35.963169"
-         height="40.399925"
-         x="56.291946"
-         y="20.973614" />
-      <rect
-         style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect6041-8-96"
-         width="35.963169"
-         height="40.399925"
-         x="8.9185381"
-         y="20.973614" />
-      <rect
-         style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect6041-8-8"
-         width="35.990215"
-         height="15.936358"
-         x="103.66543"
-         y="3.6533628" />
-      <rect
-         style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect6041-8-9-1"
-         width="35.990215"
-         height="15.936358"
-         x="56.256386"
-         y="3.6533628" />
-      <rect
-         style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect6041-8-96-5"
-         width="35.990215"
-         height="15.936358"
-         x="8.8473501"
-         y="3.6533628" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.144265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="26.760746"
-         y="11.112484"
-         id="text9593"><tspan
-           sodipodi:role="line"
-           id="tspan9591"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
-           x="26.760746"
-           y="11.112484">DIRETÓRIO </tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
-           x="26.760746"
-           y="15.921322"
-           id="tspan10691">DE TRABALHO</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.144265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="74.169785"
+     transform="translate(-21.726784,17.477648)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#333333;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3870"
+       width="148.25851"
+       height="67.826042"
+       x="26.984642"
+       y="-1.3747134" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="85.462135"
+       y="-5.0180697"
+       id="text5474-3"><tspan
+         sodipodi:role="line"
+         id="tspan5472-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;fill-opacity:1;stroke-width:0.264583px"
+         x="85.462135"
+         y="-5.0180697">LOCAL</tspan></text>
+    <rect
+       style="fill:#723d33;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6041-8"
+       width="35.963169"
+       height="40.399925"
+       x="130.50572"
+       y="20.973614" />
+    <rect
+       style="fill:#b04131;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6041-8-9"
+       width="35.963169"
+       height="40.399925"
+       x="83.132309"
+       y="20.973614" />
+    <rect
+       style="fill:#f03c2e;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6041-8-96"
+       width="35.963169"
+       height="40.399925"
+       x="35.758904"
+       y="20.973614" />
+    <rect
+       style="fill:#723d33;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6041-8-8"
+       width="35.990215"
+       height="15.936358"
+       x="130.5058"
+       y="3.6533628" />
+    <rect
+       style="fill:#b04131;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6041-8-9-1"
+       width="35.990215"
+       height="15.936358"
+       x="83.096748"
+       y="3.6533628" />
+    <rect
+       style="fill:#f03c2e;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6041-8-96-5"
+       width="35.990215"
+       height="15.936358"
+       x="35.687717"
+       y="3.6533628" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.144265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="53.601112"
+       y="11.112484"
+       id="text9593"><tspan
+         sodipodi:role="line"
+         id="tspan9591"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
+         x="53.601112"
+         y="11.112484">DIRETÓRIO </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
+         x="53.601112"
+         y="15.921322"
+         id="tspan10691">DE TRABALHO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.144265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="101.01015"
+       y="10.744305"
+       id="text9593-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
+         x="101.01015"
          y="10.744305"
-         id="text9593-0"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
-           x="74.169785"
-           y="10.744305"
-           id="tspan10691-2">ÁREA DE </tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
-           x="74.169785"
-           y="15.553143"
-           id="tspan18289">PREPARAÇÃO</tspan></text>
+         id="tspan10691-2">ÁREA DE </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
+         x="101.01015"
+         y="15.553143"
+         id="tspan18289">PREPARAÇÃO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.144265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="148.41919"
+       y="13.516903"
+       id="text9593-02"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
+         x="148.41919"
+         y="13.516903"
+         id="tspan10691-6">REPOSITÓRIO</tspan></text>
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.356166;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18742-3"
+       width="31.123791"
+       height="6.0676684"
+       x="105.84167"
+       y="37.138523" />
+    <path
+       sodipodi:type="star"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path18978-7"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="308.98553"
+       sodipodi:cy="-185.94638"
+       sodipodi:r1="30.751961"
+       sodipodi:r2="15.375981"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.23692584,0,0,0.2186296,66.828321,80.825742)"
+       inkscape:transform-center-x="-1.68082"
+       d="m 339.7375,-185.94638 -23.06398,13.31599 -23.06397,13.31599 0,-26.63198 0,-26.63198 23.06398,13.31599 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.157116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="107.53326"
+       y="41.440926"
+       id="text20526"><tspan
+         sodipodi:role="line"
+         id="tspan20524"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.157116px"
+         x="107.53326"
+         y="41.440926">git commit</tspan></text>
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.404394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18742-50-3"
+       width="40.123154"
+       height="6.0676684"
+       x="49.758484"
+       y="26.950066" />
+    <path
+       sodipodi:type="star"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path18978-5-4"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="308.98553"
+       sodipodi:cy="-185.94638"
+       sodipodi:r1="30.751961"
+       sodipodi:r2="15.375981"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.30543233,0,0,0.2186296,-0.535473,70.637286)"
+       inkscape:transform-center-x="-1.68082"
+       d="m 339.7375,-185.94638 -23.06398,13.31599 -23.06397,13.31599 0,-26.63198 0,-26.63198 23.06398,13.31599 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.157116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="60.95575"
+       y="31.252468"
+       id="text20526-8"><tspan
+         sodipodi:role="line"
+         id="tspan20524-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.157116px"
+         x="60.95575"
+         y="31.252468">git add</tspan></text>
+    <g
+       id="g23372"
+       transform="translate(26.840366,-1.5189942)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.404394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect18742-5-3-3"
+         width="40.123154"
+         height="6.0676684"
+         x="-76.390968"
+         y="49.36031"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path18978-1-6-9"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="308.98553"
+         sodipodi:cy="-185.94638"
+         sodipodi:r1="30.751961"
+         sodipodi:r2="15.375981"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(-0.30543233,0,0,0.2186296,126.68493,92.533192)"
+         inkscape:transform-center-x="-1.68082"
+         d="m 339.7375,-185.94638 -23.06398,13.31599 -23.06397,13.31599 0,-26.63198 0,-26.63198 23.06398,13.31599 z" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.144265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="121.57882"
-         y="13.516903"
-         id="text9593-02"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.157116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="45.473209"
+         y="53.662712"
+         id="text20526-8-0"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
-           x="121.57882"
-           y="13.516903"
-           id="tspan10691-6">REPOSITÓRIO</tspan></text>
-      <g
-         id="g21229"
-         transform="translate(0,-1.5189942)">
-        <rect
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.356166;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect18742-3"
-           width="31.123791"
-           height="6.0676684"
-           x="79.001305"
-           y="38.657516" />
-        <path
-           sodipodi:type="star"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path18978-7"
-           inkscape:flatsided="false"
-           sodipodi:sides="3"
-           sodipodi:cx="308.98553"
-           sodipodi:cy="-185.94638"
-           sodipodi:r1="30.751961"
-           sodipodi:r2="15.375981"
-           sodipodi:arg1="0"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           transform="matrix(0.23692584,0,0,0.2186296,39.987955,82.344736)"
-           inkscape:transform-center-x="-1.68082"
-           d="m 339.7375,-185.94638 -23.06398,13.31599 -23.06397,13.31599 0,-26.63198 0,-26.63198 23.06398,13.31599 z" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.157116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="80.692902"
-           y="42.959919"
-           id="text20526"><tspan
-             sodipodi:role="line"
-             id="tspan20524"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.157116px"
-             x="80.692902"
-             y="42.959919">git commit</tspan></text>
-      </g>
-      <g
-         id="g22388"
-         transform="translate(0,-1.5189942)">
-        <rect
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.404394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect18742-50-3"
-           width="40.123154"
-           height="6.0676684"
-           x="22.918119"
-           y="28.469059" />
-        <path
-           sodipodi:type="star"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path18978-5-4"
-           inkscape:flatsided="false"
-           sodipodi:sides="3"
-           sodipodi:cx="308.98553"
-           sodipodi:cy="-185.94638"
-           sodipodi:r1="30.751961"
-           sodipodi:r2="15.375981"
-           sodipodi:arg1="0"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           transform="matrix(0.30543233,0,0,0.2186296,-27.375839,72.15628)"
-           inkscape:transform-center-x="-1.68082"
-           d="m 339.7375,-185.94638 -23.06398,13.31599 -23.06397,13.31599 0,-26.63198 0,-26.63198 23.06398,13.31599 z" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.157116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="34.115383"
-           y="32.771461"
-           id="text20526-8"><tspan
-             sodipodi:role="line"
-             id="tspan20524-3"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.157116px"
-             x="34.115383"
-             y="32.771461">git add</tspan></text>
-      </g>
-      <g
-         id="g23372"
-         transform="translate(0,-1.5189942)">
-        <rect
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.404394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect18742-5-3-3"
-           width="40.123154"
-           height="6.0676684"
-           x="-76.390968"
-           y="49.36031"
-           transform="scale(-1,1)" />
-        <path
-           sodipodi:type="star"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path18978-1-6-9"
-           inkscape:flatsided="false"
-           sodipodi:sides="3"
-           sodipodi:cx="308.98553"
-           sodipodi:cy="-185.94638"
-           sodipodi:r1="30.751961"
-           sodipodi:r2="15.375981"
-           sodipodi:arg1="0"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           transform="matrix(-0.30543233,0,0,0.2186296,126.68493,92.533192)"
-           inkscape:transform-center-x="-1.68082"
-           d="m 339.7375,-185.94638 -23.06398,13.31599 -23.06397,13.31599 0,-26.63198 0,-26.63198 23.06398,13.31599 z" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.157116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="tspan20524-3-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.157116px"
            x="45.473209"
-           y="53.662712"
-           id="text20526-8-0"><tspan
-             sodipodi:role="line"
-             id="tspan20524-3-4"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.157116px"
-             x="45.473209"
-             y="53.662712">git reset</tspan></text>
-      </g>
-      <g
-         id="g24504"
-         transform="translate(0,-1.5189942)">
-        <rect
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.404394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect24496"
-           width="40.123154"
-           height="6.0676684"
-           x="-76.390968"
-           y="49.36031"
-           transform="scale(-1,1)" />
-        <path
-           sodipodi:type="star"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path24498"
-           inkscape:flatsided="false"
-           sodipodi:sides="3"
-           sodipodi:cx="308.98553"
-           sodipodi:cy="-185.94638"
-           sodipodi:r1="30.751961"
-           sodipodi:r2="15.375981"
-           sodipodi:arg1="0"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           transform="matrix(-0.30543233,0,0,0.2186296,126.68493,92.533192)"
-           inkscape:transform-center-x="-1.68082"
-           d="m 339.7375,-185.94638 -23.06398,13.31599 -23.06397,13.31599 0,-26.63198 0,-26.63198 23.06398,13.31599 z" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.157116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="45.473209"
-           y="53.662712"
-           id="text24502"><tspan
-             sodipodi:role="line"
-             id="tspan24500"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.157116px"
-             x="45.473209"
-             y="53.662712">git reset</tspan></text>
-      </g>
+           y="53.662712">git reset</tspan></text>
     </g>
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.404394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect24496"
+       width="40.123154"
+       height="6.0676684"
+       x="-103.23133"
+       y="47.841316"
+       transform="scale(-1,1)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path24498"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="308.98553"
+       sodipodi:cy="-185.94638"
+       sodipodi:r1="30.751961"
+       sodipodi:r2="15.375981"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(-0.30543233,0,0,0.2186296,153.5253,91.014198)"
+       inkscape:transform-center-x="-1.68082"
+       d="m 339.7375,-185.94638 -23.06398,13.31599 -23.06397,13.31599 0,-26.63198 0,-26.63198 23.06398,13.31599 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.157116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="72.313576"
+       y="52.143719"
+       id="text24502"><tspan
+         sodipodi:role="line"
+         id="tspan24500"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.157116px"
+         x="72.313576"
+         y="52.143719">git reset</tspan></text>
   </g>
 </svg>

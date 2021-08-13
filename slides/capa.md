@@ -1,4 +1,3 @@
-<i class="fab fa-5x fa-git-square"></i>
-<i class="fab fa-5x fa-github-square"></i>
+![Capa](images/capa.svg)
 
 # Escrita sem medo com Git e Github!

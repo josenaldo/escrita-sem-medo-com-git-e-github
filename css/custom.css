@@ -5,3 +5,36 @@
 .col {
     flex: 1;
 }
+
+.color-1 {
+    color: #f03c2e !important;
+}
+
+.color-2 {
+    color: #d04030 !important;
+}
+
+.color-3 {
+    color: #b04131 !important;
+}
+
+.color-4 {
+    color: #914032 !important;
+}
+
+.color-5 {
+    color: #723d33 !important;
+}
+
+.color-6 {
+    color: #543933 !important;
+}
+
+.color-7 {
+    color: #333333 !important;
+}
+
+.color-white {
+    color: #ffffff !important;
+}
+
