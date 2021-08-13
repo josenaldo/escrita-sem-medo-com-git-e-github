@@ -1,3 +1,7 @@
 ### Onde obter informacões
 
-[Aprendendo Git - Tutorial para a Gabi](https://github.com/josenaldo/aprendendo-git-e-github)
+___
+
+[Aprendendo Git - Tutorial para a Gabi Lélis](https://github.com/josenaldo/aprendendo-git-e-github)
+
+<i class="fas fa-4x fa-search"></i>

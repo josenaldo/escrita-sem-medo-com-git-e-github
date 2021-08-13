@@ -34,13 +34,11 @@
   - [x] Fluxo de trabalho
     - [x] Sozinho
     - [x] Em equipe
-  - [ ] Git é uma máquina do tempo
-    - [ ] Baixando uma versão específica | git checkout [commit]
-    - [ ] Buscando informações no passado
-      - [ ] Github History
-      - [ ] Git Log
-    - [ ] Revertendo versões
-    - [ ] Trabalhando outras linhas temporais
+  - [x] Git é uma máquina do tempo
+    - [x] Git permite
+    - [x] ...com acesso a múltiplas linhas temporais!
+    - [x] O que é um branch?
+    - [x] O que podemos fazer com branches?
   - [ ] Extras do github
     - [ ] Issues e projetos
     - [ ] Kanban

@@ -71,3 +71,8 @@ Git permite que você crie, colabore e gerencie projetos (código, texto, etc) e
     <div class="i fab fa-2x fa-android"></div>
 </div>
 
+---
+
+## É preciso usar a linha de comando?
+
+Não!
