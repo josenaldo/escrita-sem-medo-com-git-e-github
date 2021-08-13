@@ -1,39 +1,62 @@
-# Criando um repositório
+## E agora?
 
-Inicializando um repotisório Git
+___
 
+A criação de um repositório é bem simples:
+
+```sh
+# 1. Crie a pasta do projeto
 mkdir pasta_teste
 
-Criar a pasta do repositório
-
+# 2. De dentro da pasta do projeto...xxx
 cd pasta_teste
 
-Entrar na pasta
-
-iniciar o repositório
-
+# 3. ... inicialize o repositório!
 git init
+```
 
---
+![Git Init Terminal](images/git-init-terminal.png)
 
-O git cria uma pasta .git dentro da pasta do projeto
+---
 
-Essa pasta, é oculta. Pra ver é necessário mostrar arquivos ocultos
+## Tem que usar o terminal?
 
-É isso. NÃO TOQUE NELA!
+___
 
---
+Não! Existem várias ferramentas gráficas, como o Sourcetree!
 
-Como criar um repositório no Github
+![Git Init Terminal](images/git-init-sourcetree.png)
 
-Criar repositório no github
+---
 
---
+## E o que aconteceu?
 
-Clonando o projeto em sua máquina
+___
 
-Clonar repositório
+O git cria uma pasta oculta ".git" dentro da pasta do projeto
 
---
+## NÃO TOQUE NELA!
 
-Aproveitando pra explicar o readme
+![Pasta do Git](images/git-init-resultado.png)
+
+Agora, você pode trabalhar na sua máquina!
+
+---
+
+## E o Github?
+
+Eu prefiro iniciar meus repositórios no Github e depois **CLONAR** o projeto.
+
+Clonar é fazer uma cópia de um repositório.
+
+---
+
+# Demonstração
+
+Como criar e clonar um repositório no Github
+
+Note:
+
+- Criar repositório
+- Clonar
+- Mostrar os comandos básicos de add, commit e push

@@ -17,17 +17,17 @@
   - [x] Como funciona o Git?
   - [x] O que mais dá pra fazer com Git?
   - [x] Quem usa o Git? (ênfase para universidades e grupos de pesquisa)
-- [ ] O Github
-  - [ ] O que é o Github?
-  - [ ] O GITHUB É GIGANTE!
-  - [ ] O que dá pra fazer com Github?
-  - [ ] Muito além do git
-    - [ ] Concorrentes
+- [x] O Github
+  - [x] O que é o Github?
+  - [x] O GITHUB É GIGANTE!
+  - [x] O que dá pra fazer com Github?
+  - [x] Muito além do git
+  - [x] Concorrentes
 - [ ] Trabalhando com Git e Github
-  - [ ] Preparando o ambiente
-    - [ ] Instalação
-    - [ ] Configuração inicial
-  - [ ] Criando um repositório
+  - [x] Preparando o ambiente
+    - [x] Instalação
+    - [x] Configuração inicial
+  - [x] Criando um repositório
     - [ ] Criando no github
     - [ ] Clonando
     - [ ] O README.md

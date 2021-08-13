@@ -1,14 +1,47 @@
-# Preparando o ambiente
+# Como começar?
 
-Instalando o Git
+<i class="fas fa-4x fa-play"></i>
 
-- windows e linux
+---
 
---
+## 1. Fazer uma conta no Github
 
-Configurando o Git
+___
 
-git config --global user.name "João da Silva"
-git config --global user.email joao.da.silva@example.com
+[https://github.com/signup](https://github.com/signup)
 
- but use the same email that you used to sign up for GitHub.
+![Github signup](images/github-signup.png)
+
+---
+
+## 2. Instalar o Git
+
+___
+
+[https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+![Download](images/git-download.png)<!-- .element: class="r-stretch" -->
+
+---
+
+___
+
+## 3. Configurar o Git
+
+```sh
+git config --global user.name "Josenaldo de Oliveira Matos Filho"
+
+git config --global user.email josenaldo@gmail.com
+```
+
+Use o mesmo email que você cadastrou no Github
+
+---
+
+## Onde eu faço isso?
+
+___
+
+Em qualquer terminal do sistema!
+
+![Git Config](images/git-config-inicial.png)
