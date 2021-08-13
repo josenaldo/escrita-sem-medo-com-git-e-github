@@ -26,11 +26,11 @@ ___
 ![Problemas](images/problemas.svg)
 
 ---
-
+<!-- .slide: data-background="#b04131" -->
 ## Trabalhar sem controle de versão é como trabalhar sem EPI!
 
 ___
-
-<i class="fas fa-4x fa-car-crash color-5"></i>
+ 
+<i class="fas fa-4x fa-car-crash"></i>
 
 ### Uma hora, um acidente acontece!
