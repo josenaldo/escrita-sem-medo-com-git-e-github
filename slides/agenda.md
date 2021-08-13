@@ -28,13 +28,12 @@
     - [x] Instalação
     - [x] Configuração inicial
   - [x] Criando um repositório
-    - [ ] Criando no github
-    - [ ] Clonando
-    - [ ] O README.md
-  - [ ] Fluxo de trabalho
-    - [ ] Verificando o status do repositório | git status
-    - [ ] Fluxo básico: Edição | git add | git commit | git push
-    - [ ] Sinconizando repositórios | git push | git pull | git fetch
+    - [x] Criando no github
+    - [x] Clonando
+    - [x] O README.md
+  - [x] Fluxo de trabalho
+    - [x] Sozinho
+    - [x] Em equipe
   - [ ] Git é uma máquina do tempo
     - [ ] Baixando uma versão específica | git checkout [commit]
     - [ ] Buscando informações no passado

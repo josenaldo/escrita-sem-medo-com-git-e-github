@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="140.30367mm"
+   height="90.525131mm"
+   viewBox="0 0 140.30367 90.52512"
+   version="1.1"
+   id="svg1103"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="fluxo-equipe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1105"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-30.405592"
+     inkscape:cy="75.660426"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1100">
+    <marker
+       style="overflow:visible"
+       id="marker26002"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path26000" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker25955"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path25953" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path23467" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path23501" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path23461" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path23437" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-143.3156,-78.746613)">
+    <g
+       id="g31115"
+       transform="matrix(0.6,0,0,0.6,85.386972,49.603672)">
+      <g
+         id="g28533">
+        <g
+           id="g28528">
+          <path
+             style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#636363;stroke-width:5.20462;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 125.43192,157.08664 H 99.150015 V 92.037159 h 10.308705"
+             id="path23399"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <path
+           sodipodi:type="star"
+           style="fill:none;fill-opacity:1;stroke:#636363;stroke-width:19.671;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path28074"
+           inkscape:flatsided="false"
+           sodipodi:sides="3"
+           sodipodi:cx="-72"
+           sodipodi:cy="-88"
+           sodipodi:r1="15.811388"
+           sodipodi:r2="7.905694"
+           sodipodi:arg1="-2.0943951"
+           sodipodi:arg2="-1.0471976"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m -79.905694,-101.69306 11.858541,6.846528 11.858541,6.846532 -11.858541,6.846532 -11.858541,6.846532 0,-13.693064 z"
+           transform="matrix(0.26458333,0,0,0.17742108,132.58481,107.5713)"
+           inkscape:transform-center-x="-1.0458577" />
+      </g>
+      <g
+         id="g30983">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33863"
+           id="rect1462"
+           width="86.680313"
+           height="21.166666"
+           x="121.84846"
+           y="113.37609"
+           rx="3.0424852"
+           ry="2.6458333" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="146.92105"
+           y="126.88689"
+           id="text2682"><tspan
+             sodipodi:role="line"
+             id="tspan2680"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583px"
+             x="146.92105"
+             y="126.88689">git add</tspan></text>
+      </g>
+      <g
+         id="g30978">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33863"
+           id="rect1462-6"
+           width="86.680313"
+           height="21.166666"
+           x="121.84846"
+           y="81.008728"
+           rx="3.0424852"
+           ry="2.6458333" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="130.44666"
+           y="94.826996"
+           id="text2682-2"><tspan
+             sodipodi:role="line"
+             id="tspan2680-2"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583px"
+             x="130.44666"
+             y="94.826996">Altera / Edita</tspan></text>
+      </g>
+      <g
+         id="g30988"
+         transform="translate(0,0.02487898)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33863"
+           id="rect1462-1"
+           width="86.680313"
+           height="21.166666"
+           x="121.84846"
+           y="145.74345"
+           rx="3.0424852"
+           ry="2.6458333" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="136.52379"
+           y="159.10696"
+           id="text2682-6"><tspan
+             sodipodi:role="line"
+             id="tspan2680-1"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583px"
+             x="136.52379"
+             y="159.10696">git commit</tspan></text>
+      </g>
+      <g
+         id="g30993">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33863"
+           id="rect1462-1-8"
+           width="86.680313"
+           height="21.166666"
+           x="121.84846"
+           y="178.11081"
+           rx="3.0424852"
+           ry="2.6458333" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="143.92125"
+           y="191.6216"
+           id="text2682-6-2"><tspan
+             sodipodi:role="line"
+             id="tspan2680-1-0"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583px"
+             x="143.92125"
+             y="191.6216">git push</tspan></text>
+      </g>
+      <path
+         sodipodi:type="star"
+         style="fill:#636363;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path7214"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="309"
+         sodipodi:cy="123"
+         sodipodi:r1="50.08992"
+         sodipodi:r2="25.04496"
+         sodipodi:arg1="-0.52359878"
+         sodipodi:arg2="0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 352.37914,97.95504 330.68957,135.52248 309,173.08992 287.31043,135.52248 265.62086,97.95504 l 43.37914,0 z"
+         transform="matrix(0.56939469,0,0,0.1074527,-10.754345,93.275682)"
+         inkscape:transform-center-x="3.2352614e-06"
+         inkscape:transform-center-y="1.3455748" />
+      <path
+         sodipodi:type="star"
+         style="fill:#636363;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path7214-4"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="309"
+         sodipodi:cy="123"
+         sodipodi:r1="50.08992"
+         sodipodi:r2="25.04496"
+         sodipodi:arg1="-0.52359878"
+         sodipodi:arg2="0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.56939469,0,0,0.1074527,-10.754345,60.933201)"
+         inkscape:transform-center-x="3.2352614e-06"
+         inkscape:transform-center-y="1.3455748"
+         d="M 352.37914,97.95504 330.68957,135.52248 309,173.08992 287.31043,135.52248 265.62086,97.95504 l 43.37914,0 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#636363;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path7214-8"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="309"
+         sodipodi:cy="123"
+         sodipodi:r1="50.08992"
+         sodipodi:r2="25.04496"
+         sodipodi:arg1="-0.52359878"
+         sodipodi:arg2="0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.56939469,0,0,0.1074527,-10.754345,125.61817)"
+         inkscape:transform-center-x="3.2352614e-06"
+         inkscape:transform-center-y="1.3455748"
+         d="M 352.37914,97.95504 330.68957,135.52248 309,173.08992 287.31043,135.52248 265.62086,97.95504 l 43.37914,0 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#636363;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path7214-1"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="309"
+         sodipodi:cy="123"
+         sodipodi:r1="50.08992"
+         sodipodi:r2="25.04496"
+         sodipodi:arg1="-0.52359878"
+         sodipodi:arg2="0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.56939469,0,0,0.1074527,-10.754345,157.96065)"
+         inkscape:transform-center-x="3.2352614e-06"
+         inkscape:transform-center-y="1.3455748"
+         d="M 352.37914,97.95504 330.68957,135.52248 309,173.08992 287.31043,135.52248 265.62086,97.95504 l 43.37914,0 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:125%;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.236821px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="216.60793"
+         y="86.791771"
+         id="text9682"
+         transform="scale(0.97346861,1.0272545)"><tspan
+           sodipodi:role="line"
+           id="tspan9680"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.236821px"
+           x="216.60793"
+           y="86.791771">Adiciona ou altera arquivos</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.236821px"
+           x="216.60793"
+           y="95.611221"
+           id="tspan14282">na pasta de trabalho</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:125%;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.236821px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="217.08157"
+         y="122.66876"
+         id="text16016"
+         transform="scale(0.97346861,1.0272545)"><tspan
+           sodipodi:role="line"
+           id="tspan16014"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.236821px"
+           x="217.08157"
+           y="122.66876">Coloca os arquivos na staging</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:125%;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.236821px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="216.84476"
+         y="149.83321"
+         id="text16834"
+         transform="scale(0.97346861,1.0272545)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.236821px"
+           x="216.84476"
+           y="149.83321"
+           id="tspan17496">Empacota as alterações</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.236821px"
+           x="216.84476"
+           y="158.65265"
+           id="tspan17500">e envia pro repositório </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:125%;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.236821px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="217.31839"
+         y="181.3176"
+         id="text22026"
+         transform="scale(0.97346861,1.0272545)"><tspan
+           sodipodi:role="line"
+           id="tspan22024"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.236821px"
+           x="217.31839"
+           y="181.3176">Envia as alterações locais </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.236821px"
+           x="217.31839"
+           y="190.13704"
+           id="tspan22028">para o repositório remoto</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33863"
+         id="rect1462-1-8-2"
+         width="86.680313"
+         height="21.166666"
+         x="121.84846"
+         y="48.740883"
+         rx="3.0424852"
+         ry="2.6458333" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="144.23285"
+         y="62.251671"
+         id="text2682-6-2-3"><tspan
+           sodipodi:role="line"
+           id="tspan2680-1-0-4"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583px"
+           x="144.23285"
+           y="62.251671">git pull</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:125%;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.236821px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="217.63849"
+         y="55.380035"
+         id="text22026-8"
+         transform="scale(0.97346861,1.0272545)"><tspan
+           sodipodi:role="line"
+           id="tspan22024-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.236821px"
+           x="217.63849"
+           y="55.380035">Traz, para o repositório local</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.236821px"
+           x="217.63849"
+           y="64.199486"
+           id="tspan22028-6">as alterações do repositório remoto</tspan></text>
+    </g>
+  </g>
+</svg>
