@@ -18,9 +18,11 @@
   - [x] O que mais dá pra fazer com Git?
   - [x] Quem usa o Git? (ênfase para universidades e grupos de pesquisa)
 - [ ] O Github
-  - [ ] O que é o Github
-  - [ ] Quem usa o Github
-  - [ ] Concorrentes
+  - [ ] O que é o Github?
+  - [ ] O GITHUB É GIGANTE!
+  - [ ] O que dá pra fazer com Github?
+  - [ ] Muito além do git
+    - [ ] Concorrentes
 - [ ] Trabalhando com Git e Github
   - [ ] Preparando o ambiente
     - [ ] Instalação

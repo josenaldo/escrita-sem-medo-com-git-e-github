@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="158.77423mm"
+   width="211.15453mm"
    height="90.766167mm"
-   viewBox="0 0 158.77423 90.76617"
+   viewBox="0 0 211.15453 90.76617"
    version="1.1"
    id="svg3581"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -24,143 +24,201 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0809568"
-     inkscape:cx="251.16637"
-     inkscape:cy="181.7834"
+     inkscape:cx="350.15277"
+     inkscape:cy="181.78341"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs3578" />
   <g
      inkscape:label="fundo"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-24.583157,-101.15675)">
+     transform="translate(1.6069914,-101.15675)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.336345"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.387878"
        id="rect3664"
-       width="158.77423"
+       width="211.15453"
        height="90.766167"
-       x="24.583157"
+       x="-1.6069914"
        y="101.15675" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="setas"
-     transform="translate(-21.726784,17.477652)">
+     transform="translate(4.4633642,17.477656)">
     <g
-       id="g1129"
-       transform="translate(26.840366)">
+       id="g25934"
+       transform="translate(0,-1.5189942)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect3870"
          width="148.25851"
          height="67.826042"
-         x="0.14427546"
-         y="-1.3747134" />
+         x="3.0006483"
+         y="118.77869"
+         transform="translate(-2.8563728,-118.63441)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3870-7"
+         width="48.953526"
+         height="67.869118"
+         x="154.94258"
+         y="118.71928"
+         transform="translate(-2.8563728,-118.63441)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="58.621769"
-         y="-5.0180697"
-         id="text5474-3"><tspan
+         x="158.94099"
+         y="115.13533"
+         id="text5474"
+         transform="translate(-2.8563728,-118.63441)"><tspan
+           sodipodi:role="line"
+           id="tspan5472"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583px"
+           x="158.94099"
+           y="115.13533">REMOTO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="61.478142"
+         y="115.13533"
+         id="text5474-3"
+         transform="translate(-2.8563728,-118.63441)"><tspan
            sodipodi:role="line"
            id="tspan5472-4"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583px"
-           x="58.621769"
-           y="-5.0180697">LOCAL</tspan></text>
+           x="61.478142"
+           y="115.13533">LOCAL</tspan></text>
+      <rect
+         style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6041"
+         width="35.963169"
+         height="40.399925"
+         x="161.43776"
+         y="141.09883"
+         transform="translate(-2.8563728,-118.63441)" />
       <rect
          style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect6041-8"
          width="35.963169"
          height="40.399925"
-         x="103.66536"
-         y="20.973614" />
+         x="106.52173"
+         y="141.12701"
+         transform="translate(-2.8563728,-118.63441)" />
       <rect
          style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect6041-8-9"
          width="35.963169"
          height="40.399925"
-         x="56.291946"
-         y="20.973614" />
+         x="59.148319"
+         y="141.12701"
+         transform="translate(-2.8563728,-118.63441)" />
       <rect
          style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect6041-8-96"
          width="35.963169"
          height="40.399925"
-         x="8.9185381"
-         y="20.973614" />
+         x="11.774911"
+         y="141.12701"
+         transform="translate(-2.8563728,-118.63441)" />
+      <rect
+         style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6041-3"
+         width="35.990215"
+         height="15.936358"
+         x="161.47913"
+         y="123.79565"
+         transform="translate(-2.8563728,-118.63441)" />
       <rect
          style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect6041-8-8"
          width="35.990215"
          height="15.936358"
-         x="103.66543"
-         y="3.6533628" />
+         x="106.5218"
+         y="123.80676"
+         transform="translate(-2.8563728,-118.63441)" />
       <rect
          style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect6041-8-9-1"
          width="35.990215"
          height="15.936358"
-         x="56.256386"
-         y="3.6533628" />
+         x="59.112759"
+         y="123.80676"
+         transform="translate(-2.8563728,-118.63441)" />
       <rect
          style="fill:#454545;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect6041-8-96-5"
          width="35.990215"
          height="15.936358"
-         x="8.8473501"
-         y="3.6533628" />
+         x="11.703723"
+         y="123.80676"
+         transform="translate(-2.8563728,-118.63441)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.144265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="26.760746"
-         y="11.112484"
-         id="text9593"><tspan
+         x="29.617119"
+         y="131.26588"
+         id="text9593"
+         transform="translate(-2.8563728,-118.63441)"><tspan
            sodipodi:role="line"
            id="tspan9591"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
-           x="26.760746"
-           y="11.112484">DIRETÓRIO </tspan><tspan
+           x="29.617119"
+           y="131.26588">DIRETÓRIO </tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
-           x="26.760746"
-           y="15.921322"
+           x="29.617119"
+           y="136.07472"
            id="tspan10691">DE TRABALHO</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.144265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="74.169785"
-         y="10.744305"
-         id="text9593-0"><tspan
+         x="77.026154"
+         y="130.89771"
+         id="text9593-0"
+         transform="translate(-2.8563728,-118.63441)"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
-           x="74.169785"
-           y="10.744305"
+           x="77.026154"
+           y="130.89771"
            id="tspan10691-2">ÁREA DE </tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
-           x="74.169785"
-           y="15.553143"
+           x="77.026154"
+           y="135.70654"
            id="tspan18289">PREPARAÇÃO</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.144265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="121.57882"
-         y="13.516903"
-         id="text9593-02"><tspan
+         x="124.43519"
+         y="133.6703"
+         id="text9593-02"
+         transform="translate(-2.8563728,-118.63441)"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
-           x="121.57882"
-           y="13.516903"
+           x="124.43519"
+           y="133.6703"
            id="tspan10691-6">REPOSITÓRIO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.144265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="179.39252"
+         y="133.65918"
+         id="text9593-03"
+         transform="translate(-2.8563728,-118.63441)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.84707px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.144265px"
+           x="179.39252"
+           y="133.65918"
+           id="tspan10691-1">REPOSITÓRIO</tspan></text>
       <g
-         id="g21229"
-         transform="translate(0,-1.5189942)">
+         id="g21229">
         <rect
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.356166;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect18742-3"
@@ -198,8 +256,7 @@
              y="42.959919">git commit</tspan></text>
       </g>
       <g
-         id="g22388"
-         transform="translate(0,-1.5189942)">
+         id="g22388">
         <rect
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.404394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect18742-50-3"
@@ -237,8 +294,7 @@
              y="32.771461">git add</tspan></text>
       </g>
       <g
-         id="g23372"
-         transform="translate(0,-1.5189942)">
+         id="g23372">
         <rect
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.404394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect18742-5-3-3"
@@ -277,8 +333,84 @@
              y="53.662712">git reset</tspan></text>
       </g>
       <g
-         id="g24504"
-         transform="translate(0,-1.5189942)">
+         id="g24494">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.404394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect18742-5-3"
+           width="40.123154"
+           height="6.0676684"
+           x="-176.61598"
+           y="48.870773"
+           transform="scale(-1,1)" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path18978-1-6"
+           inkscape:flatsided="false"
+           sodipodi:sides="3"
+           sodipodi:cx="308.98553"
+           sodipodi:cy="-185.94638"
+           sodipodi:r1="30.751961"
+           sodipodi:r2="15.375981"
+           sodipodi:arg1="0"
+           sodipodi:arg2="1.0471976"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           transform="matrix(-0.30543233,0,0,0.2186296,226.90994,92.533192)"
+           inkscape:transform-center-x="-1.68082"
+           d="m 339.7375,-185.94638 -23.06398,13.31599 -23.06397,13.31599 0,-26.63198 0,-26.63198 23.06398,13.31599 z" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.157116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="147.62402"
+           y="53.17318"
+           id="text20526-8-9"><tspan
+             sodipodi:role="line"
+             id="tspan20524-3-0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.157116px"
+             x="147.62402"
+             y="53.17318">git pull</tspan></text>
+      </g>
+      <g
+         id="g24488">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.404394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect18742-50"
+           width="40.123154"
+           height="6.0676684"
+           x="123.14313"
+           y="28.469059" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path18978-5"
+           inkscape:flatsided="false"
+           sodipodi:sides="3"
+           sodipodi:cx="308.98553"
+           sodipodi:cy="-185.94638"
+           sodipodi:r1="30.751961"
+           sodipodi:r2="15.375981"
+           sodipodi:arg1="0"
+           sodipodi:arg2="1.0471976"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           transform="matrix(0.30543233,0,0,0.2186296,72.849173,72.15628)"
+           inkscape:transform-center-x="-1.68082"
+           d="m 339.7375,-185.94638 -23.06398,13.31599 -23.06397,13.31599 0,-26.63198 0,-26.63198 23.06398,13.31599 z" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.157116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="132.83781"
+           y="32.771461"
+           id="text20526-8-8"><tspan
+             sodipodi:role="line"
+             id="tspan20524-3-7"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.157116px"
+             x="132.83781"
+             y="32.771461">git push</tspan></text>
+      </g>
+      <g
+         id="g24504">
         <rect
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.404394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect24496"

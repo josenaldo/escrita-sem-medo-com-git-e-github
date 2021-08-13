@@ -14,7 +14,7 @@ ___
 
 Linus Torvalds (sim, o "pai" do Linux), em 2005
 
-![Sistema distribuido](images/torvalds.svg) <!-- .element: class="r-stretch" -->
+![Linus Torvalds](images/torvalds.svg) <!-- .element: class="r-stretch" -->
 
 ---
 
@@ -39,7 +39,7 @@ ___
 
 ## Como funciona o Git?
 
-![Sistema distribuido](images/git-diagrama.svg) <!-- .element: class="r-stretch" -->
+![Git - Diagrama](images/git-diagrama.svg) <!-- .element: class="r-stretch" -->
 
 Note:
 
@@ -61,4 +61,13 @@ Git permite que você crie, colabore e gerencie projetos (código, texto, etc) e
 ---
 
 ## Quem usa o Git?
+
+<div>
+    <div class="i fab fa-2x fa-google"></div>
+    <div class="i fab fa-2x fa-facebook"></div>
+    <div class="i fab fa-2x fa-microsoft"></div>
+    <div class="i fab fa-2x fa-twitter"></div>
+    <div class="i fab fa-2x fa-linkedin"></div>
+    <div class="i fab fa-2x fa-android"></div>
+</div>
 

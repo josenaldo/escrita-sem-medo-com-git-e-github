@@ -1,34 +1,67 @@
-## Github
+### Onde hospedar projetos Git?
 
-O Github é um repositório remoto, criado como um serviço online de hospedagem de repositórios do Git.
+___
 
-É o serviço que permite alojar repositórios git, na nuvem
+# Github
 
-Tem funcionalidades de rede social
+<div class="i fab fa-4x fa-github"></div>
+
+---
+
+## O que é o Github?
+
+___
+
+### O Github é um repositório remoto, criado como um serviço online de hospedagem de repositórios do Git.
+
+![Git Remote - Diagrama](images/git-diagrama-remote.svg) <!-- .element: class="r-stretch" -->
+
+---
+
+## O GITHUB É GIGANTE!
+
+___
 
 É o maior serviço de repositórios do mundo
 
-Atualmente, pertence à microsoft
+65+ milhões de desenvolvedores
 
-Backup de 5000 anos
+3+ milhões de organizações
 
---
+200+ milhões de repositórios
+
+---
+
+## O que dá pra fazer com Github?
+
+___
 
 Permite que um time possa colaborar, servindo como repositório central
 
-tem diversas funcionalidades de Gestão de Projetos
+![Github](images/github-diagrama.svg) <!-- .element: class="r-stretch" -->
 
-Tem ferramenta de documentação de projetos
+---
 
-Grandes projetos opensource estão hospedados no github, tais como o Linux, wordpress, .Net Core
+## Muito além do git
 
-Vem sendo adotados por pesquisadores
+___
 
---
+Repositório Público e Privado
 
-Repositórios podem ser públicos ou privados
+Organizações
 
-## Invoca PIroto
+Gestão de Projetos
 
-[Invoca Piroto Farofa](https://invoca-piroto-backend.herokuapp.com/)
-[Lampião e Julieta](https://github.com/josenaldo/farofa-lampiao-e-julieta)
+Documentação Wiki
+
+Integração e Automação
+
+Github Pages
+
+---
+
+## Concorrentes
+
+___
+
+![Concorrentes](images/concorrentes.svg)<!-- .element: class="r-stretch" -->
